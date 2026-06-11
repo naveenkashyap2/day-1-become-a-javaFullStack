@@ -22,7 +22,7 @@ public class day1 {
         boolean h = (a <= b);
         System.out.println(h);
 
-        logical operators -> &&, ||, !
+        //logical operators -> &&, ||, !
 
         boolean i = (a > 0) && (b > 0);
         System.out.println(i);
